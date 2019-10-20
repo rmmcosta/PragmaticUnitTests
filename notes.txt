@@ -1,0 +1,6 @@
+The test code must be written to do a few things:
+
+- setup all conditions
+- call the mehtod to be tested
+- verify that the method to be tested functioned as expected
+- clean up after itself
